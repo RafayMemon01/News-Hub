@@ -1,0 +1,87 @@
+.carousel-inner img {
+    max-height: 50vh; /* 20% of the viewport height */
+    border-radius: 2rem;
+    
+  }
+main{
+    padding: 3em;
+}  
+main .container{
+    margin-top: 4%;
+}
+/* Add the Charcoal and Yellow color scheme */
+/* Apply "Poppins" font and update font-family */
+body {
+    font-family: "Poppins", sans-serif !important;
+  }
+  
+  /* Navbar styling */
+  .navbar {
+    background-color: #101820 !important;
+  }
+  
+  .navbar-brand {
+    color: #fee715 !important;
+    font-weight: bold !important;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fee715 !important;
+  }
+  
+  .nav-link {
+    color: #fee715 !important;
+  }
+  
+  /* Search button styling */
+  .btn-outline-success {
+    border-color: #fee715 !important;
+    color: #fee715 !important;
+  }
+  
+  /* Pagination button styling */
+  .page-item .page-link {
+    background-color: #fee715 !important;
+    border-color: #fee715 !important;
+    color: #101820 !important;
+  }
+  
+  /* Card styling */
+  .card {
+    background-color: #101820 !important;
+    color: #fee715 !important;
+    border: 1px !important;
+    /* box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  .card-title {
+    color: #fee715 !important;
+  }
+  
+  .card-text {
+    color: #fee715 !important;
+  }
+  
+  .btn-primary {
+    background-color: #fee715 !important;
+    border-color: #fee715 !important;
+  }
+  
+  /* Carousel image styling */
+  .carousel-inner img {
+    max-height: 50vh !important;
+    border-radius: 2rem !important;
+  }
+  
+  /* Update main and container styling */
+  main {
+    padding: 1em !important;
+    font-family: "Poppins", sans-serif !important;
+  }
+  
+  .container {
+    margin-top: 4% !important;
+    font-family: "Poppins", sans-serif !important;
+  }
+  
